@@ -69,7 +69,7 @@ body {
 .hero-section {
     position: relative;
     padding: 160px 0 100px;
-    background: url('assets/hero-bg.png') no-repeat center center/cover;
+    background: url('hero-bg.png') no-repeat center center/cover;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -250,3 +250,4 @@ footer {
         margin: 0 auto 2rem;
     }
 }
+
